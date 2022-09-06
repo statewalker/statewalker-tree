@@ -1,6 +1,6 @@
 # @statewalker/tree: Tree Traversal Library
 
-This module contains methods allowing to traverse library. The main interest of these methods is that they allow to iteratively visit tree nodes, interrupt the iteration process at any moment and restore it from the same position.
+This module contains methods allowing to traverse tree structures. The main interest of these methods is that they allow to iteratively visit tree nodes, interrupt the iteration process at any moment and restore it from the same position.
 
 Methods:
 * `newTreeWalker(...)` - initializes and returns a new method allowing synchronously visit tree structures
