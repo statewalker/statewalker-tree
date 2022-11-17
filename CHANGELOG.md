@@ -1,5 +1,11 @@
 # @statewalker/tree
 
+## 0.10.2
+
+### Patch Changes
+
+- Update rollup and dependencies
+
 ## 0.10.1
 
 ### Patch Changes
